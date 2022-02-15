@@ -10,5 +10,7 @@ J'ai testé d'autres 2 modèles comme MobileNetv2 et Inceptionv3 pour effectuer 
 
 Resultats:
   VGG-16 : accuracy pour test 0.93
+  
   MobileNetv2 : accuracy pour test 0.93
+  
   Inceptionv3 : accuracy pour test 0.89
