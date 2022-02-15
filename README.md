@@ -9,6 +9,7 @@ Il y a 3 notebooks pour VGG-16, data, train et test.
 J'ai testé d'autres 2 modèles comme MobileNetv2 et Inceptionv3 pour effectuer l'étape de "features extraction".
 
 Resultats:
+
   VGG-16 : accuracy pour test 0.93
   
   MobileNetv2 : accuracy pour test 0.93
