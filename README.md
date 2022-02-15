@@ -1,8 +1,8 @@
 # 2022_02_alien_predator_3
 
-# Dans l'épisode 3, nous allons utiliser la technique dite de "transfer learning" et 
-# plus particulièrement d'extractions de caractéristiques ("features extraction") 
-# pour améliorer les performances du programme de vision par ordinateur. 
+Dans l'épisode 3, nous allons utiliser la technique dite de "transfer learning" et 
+plus particulièrement d'extractions de caractéristiques ("features extraction") 
+pour améliorer les performances du programme de vision par ordinateur. 
 
 Il y a 3 notebooks pour VGG-16, data, train et test.
 
